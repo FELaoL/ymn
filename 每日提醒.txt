@@ -1,0 +1,7 @@
+{{dateTime.DATA}}
+今天是我们相恋的第{{love.DATA}}天
+距离你的生日还有{{nextBirth.DATA}}天
+距离我们恋爱纪念日还有{{nextLove.DATA}}天
+【每日一句】
+{{message.DATA}}
+
